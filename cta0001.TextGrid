@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.239501133786848
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sounds"
+		xmin = 0.0
+		xmax = 1.239501133786848
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.192562358276644
+				text = "j"
+			intervals [2]:
+				xmin = 0.192562358276644
+				xmax = 0.28816326530612246
+				text = "u0"
+			intervals [3]:
+				xmin = 0.28816326530612246
+				xmax = 0.3108390022675737
+				text = "r'"
+			intervals [4]:
+				xmin = 0.3108390022675737
+				xmax = 0.4122448979591837
+				text = "i4"
+			intervals [5]:
+				xmin = 0.4122448979591837
+				xmax = 0.5647165532879819
+				text = "t"
+			intervals [6]:
+				xmin = 0.5647165532879819
+				xmax = 0.5882086167800453
+				text = "r'"
+			intervals [7]:
+				xmin = 0.5882086167800453
+				xmax = 0.7152834467120182
+				text = "i0"
+			intervals [8]:
+				xmin = 0.7152834467120182
+				xmax = 0.8346031746031746
+				text = "f"
+			intervals [9]:
+				xmin = 0.8346031746031746
+				xmax = 0.8753741496598639
+				text = "a4"
+			intervals [10]:
+				xmin = 0.8753741496598639
+				xmax = 0.943718820861678
+				text = "n"
+			intervals [11]:
+				xmin = 0.943718820861678
+				xmax = 1.0092517006802721
+				text = "a4"
+			intervals [12]:
+				xmin = 1.0092517006802721
+				xmax = 1.239501133786848
+				text = "f"
+	item [2]:
+		class = "IntervalTier"
+		name = "durs zscore"
+		xmin = 0.0
+		xmax = 1.239501133786848
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.192562358276644
+				text = "4.483"
+			intervals [2]:
+				xmin = 0.192562358276644
+				xmax = 0.28816326530612246
+				text = "0.19"
+			intervals [3]:
+				xmin = 0.28816326530612246
+				xmax = 0.3108390022675737
+				text = "-1.057"
+			intervals [4]:
+				xmin = 0.3108390022675737
+				xmax = 0.4122448979591837
+				text = "1.64"
+			intervals [5]:
+				xmin = 0.4122448979591837
+				xmax = 0.5647165532879819
+				text = "3.243"
+			intervals [6]:
+				xmin = 0.5647165532879819
+				xmax = 0.5882086167800453
+				text = "-0.996"
+			intervals [7]:
+				xmin = 0.5882086167800453
+				xmax = 0.7152834467120182
+				text = "1.528"
+			intervals [8]:
+				xmin = 0.7152834467120182
+				xmax = 0.8346031746031746
+				text = "1.272"
+			intervals [9]:
+				xmin = 0.8346031746031746
+				xmax = 0.8753741496598639
+				text = "-1.024"
+			intervals [10]:
+				xmin = 0.8753741496598639
+				xmax = 0.943718820861678
+				text = "0.295"
+			intervals [11]:
+				xmin = 0.943718820861678
+				xmax = 1.0092517006802721
+				text = "-0.41"
+			intervals [12]:
+				xmin = 1.0092517006802721
+				xmax = 1.239501133786848
+				text = "4.764"
